@@ -5,7 +5,7 @@
 <br>My Name is Matthew Palma
 <br>I am currently a Junior in High School
 <br>I enjoy engineering, playing video games, and playing sports
-<br>I also enjoy photography
+<br>I also enjoy photography [Insta Photos](https://www.instagram.com/flim.by.mp?igsh=NTc4MTIwNjQ2YQ "Insta")
 
 ### **Goals for this course:**
 <br>Be able to code a game in python
